@@ -1,0 +1,11 @@
+{
+  "name": "sales-summary-dashboard",
+  "version": "1.0.0",
+  "description": "Sales Summary Dashboard - Node.js Implementation",
+  "main": "sales_summary_dashboard.js",
+  "scripts": {
+    "start": "node sales_summary_dashboard.js"
+  },
+  "author": "Alansalon",
+  "license": "MIT"
+}
