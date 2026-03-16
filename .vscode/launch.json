@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MP03_SearchKeyword",
+      "request": "launch",
+      "mainClass": "MP03_SearchKeyword",
+      "projectName": "Prog2-9307-AY225-ALANSALON_3966538e"
+    },
+    {
+      "type": "java",
+      "name": "MP02_First10Rows",
+      "request": "launch",
+      "mainClass": "MP02_First10Rows",
+      "projectName": "Prog2-9307-AY225-ALANSALON_3966538e"
+    },
+    {
+      "type": "java",
+      "name": "MP01_TotalRecords",
+      "request": "launch",
+      "mainClass": "MP01_TotalRecords",
+      "projectName": "Prog2-9307-AY225-ALANSALON_3966538e"
+    },
+    {
+      "type": "java",
       "name": "Debug StudentRecordSystem",
       "request": "launch",
       "mainClass": "StudentRecordSystem",
